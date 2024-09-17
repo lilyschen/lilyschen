@@ -8,8 +8,7 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I am also a pharmacist
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lily-s-chen)
-
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lily-s-chen/)
 
 
 <!--
